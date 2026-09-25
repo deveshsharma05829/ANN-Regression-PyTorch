@@ -65,7 +65,7 @@ The model explains ~93% of the variance in energy output on unseen data.
 
 ## 🚀 How to Run
 
-git clone https://github.com/deveshsharma05829/power-plant-energy-ann.git
+git clone https://github.com/deveshsharma05829/ANN-Regression-PyTorch.git
 cd power-plant-energy-ann
 pip install -r requirements.txt
 jupyter notebook ANN_Regression.ipynb
